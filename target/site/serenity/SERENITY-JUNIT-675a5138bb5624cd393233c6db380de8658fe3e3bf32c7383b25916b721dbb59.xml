@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Yo como dueño del producto requiero convertir la tasa de interes de tasa nominal a tasa efectiva" skipped="0" tests="1" time="86.87" timestamp="2024-08-03 07:59:58"><testcase name="Calculo de tasa nominal a tasa efectiva"><failure message="expected:&lt;[9.54 ]%&gt; but was:&lt;[]%&gt;" type="java.lang.AssertionError">expected:&lt;[9.54 ]%&gt; but was:&lt;[]%&gt;</failure><system-err>expected:&lt;[9.54 ]%&gt; but was:&lt;[]%&gt;
+stepdefinitions.TransformInterestRatesStepDefinition.resultCalculate(TransformInterestRatesStepDefinition.java:48)
+✽.debe observar el valor de la tasa nominal transformado a tasa efectiva(file:///home/user/IdeaProjects/Prueba_Bancolombia/src/test/resources/features/TransformInterestRates.feature:14)
+</system-err></testcase></testsuite>
