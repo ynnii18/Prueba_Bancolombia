@@ -24,7 +24,6 @@ public class ValidateExistenceOfTheResult implements Question<String> {
     public String answeredBy(Actor actor) {
 
         if (target.resolveFor(actor).isDisplayed()) {
-            actor.attemptsTo(WaitUntil.the(INTERES, isVisible()).forNoMoreThan(20).seconds());
             return Text.of(target).answeredBy(actor);
         } else {
             throw new AssertionError("El elemento no es visible.");

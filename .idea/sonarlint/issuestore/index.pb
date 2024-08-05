@@ -1,28 +1,16 @@
 
-@
-build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
-S
-#src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 <
 build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
 C
 Serenity.properties,d/8/d8b2a432b6b25e2bb2f0a875c678c22f24c238df
-C
-settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-G
-settingsJson.properties,0/c/0c5452c44d4be31d6a7d354f06a11b99d2550953
 Z
 *src/main/java/interactions/NavigateTo.java,6/2/62db6a0aaf060741b4b7068370676e554047021b
 \
 ,src/main/java/utils/constants/Constants.java,8/c/8c7492c5db32def8d9cd6cd97944ca47a3e5107d
-h
-8src/main/java/utils/constants/resources/GetEndpoint.java,d/7/d73a1162a361e0ba111560e9d120a558a4ff936b
 ^
 .src/main/java/utils/resources/GetEndpoint.java,5/2/527e8fb1a1312e1cdd1e6b2d361b5d55757bf8af
-R
-"src/main/java/utils/Constants.java,4/f/4f7a6c7079cf4b2ff19d6787f3f02ddcd18c4121
 \
 ,src/main/java/utils/constants/Endpoints.java,3/6/363732c68743a2c0fae08903b83bdf4975b803b9
 w
@@ -35,13 +23,9 @@ g
 ,src/main/java/interactions/SelectModule.java,f/f/ff8f6900ba2b200463f109c9d1510e9696bf0da8
 e
 5src/main/java/userinterfaces/BancolombiaHomePage.java,c/1/c1048968d4118d924526b2a729ebcee1aa75ec4d
-k
-;src/main/java/task/SelectOptionTransformerInteresRates.java,9/6/96f80f57468eb8844eb729a24d143b44a3850182
 g
 7src/test/java/runners/TransformInterestRatesRunner.java,e/d/edf5fcacd22c1f001f24a9971cfc609970867e5c
 V
 &src/main/java/task/CalculateRates.java,e/0/e076f78fd98dc2a6e4af08d30eaf4f08acece70a
-L
-src/main/java/questions.java,9/5/95553857623780355ad7b4759625daabb74b84b7
 i
 9src/main/java/questions/ValidateExistenceOfTheResult.java,0/e/0e4fb5e8c86dc5fdfb0917cb4290e795e80259ab

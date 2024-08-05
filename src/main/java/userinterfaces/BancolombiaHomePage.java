@@ -25,4 +25,6 @@ public class BancolombiaHomePage {
             .locatedBy("#interes");
     public static final Target TASA_CALCULADA = Target.the("resultado de la tasa de interés")
             .locatedBy("#respuesta");
+    public static final Target BODY = Target.the("Body")
+            .locatedBy("#toolUno");
 }

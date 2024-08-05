@@ -32,13 +32,12 @@ public class CalculateRates implements Task {
                 Click.on(PERIODICIDAD),
                 SelectFromOptions.byVisibleText(queryParameters.get("periodicidad deseada")).from(PERIODICIDAD),
                 SelectFromOptions.byValue("2").from(PERIODICIDAD),
-                WaitUntil.the(CAPITALIZACION, isVisible()).forNoMoreThan(10).seconds(),
                 Click.on(CAPITALIZACION),
                 SelectFromOptions.byVisibleText(queryParameters.get("Ingresa la capitalización")).from(CAPITALIZACION),
                 SelectFromOptions.byValue("1").from(CAPITALIZACION),
-                WaitUntil.the(INTERES, isVisible()).forNoMoreThan(10).seconds(),
                 Click.on(BancolombiaHomePage.INTERES),
-                Enter.theValue(queryParameters.get("Ingresa la tasa de interés")).into(BancolombiaHomePage.INTERES)
+                Enter.theValue(queryParameters.get("Ingresa la tasa de interés")).into(BancolombiaHomePage.INTERES),
+                Click.on(TASA_CALCULADA)
         );
     }
 

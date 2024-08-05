@@ -43,7 +43,6 @@ public class TransformInterestRatesStepDefinition {
 
     @Cuando("debe observar el valor de la tasa nominal transformado a tasa efectiva")
     public void resultCalculate() {
-        OnStage.theActorInTheSpotlight().attemptsTo(WaitUntil.the(BancolombiaHomePage.TASA_CALCULADA, isVisible()).forNoMoreThan(30).seconds());
         String valorRespuesta = OnStage.theActorInTheSpotlight().asksFor(ValidateExistenceOfTheResult.de(BancolombiaHomePage.TASA_CALCULADA));
         Assert.assertEquals("9.54 %", valorRespuesta.trim());
     }

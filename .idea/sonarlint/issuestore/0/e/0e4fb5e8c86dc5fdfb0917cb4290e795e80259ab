@@ -1,8 +1,14 @@
 
 •
-java:S1128"MRemove this unused import 'net.serenitybdd.screenplay.questions.TextContent'.(ÔÄÆ–şÿÿÿÿ8ÈŒ×‘2J$9bec0ec2-1cd5-48d9-a326-a996dc7974da
+java:S1128"MRemove this unused import 'net.serenitybdd.screenplay.questions.TextContent'.(ÔÄÆ–şÿÿÿÿ8ÈŒ×‘2J$574f347f-fbe8-4883-9985-cd748160a741
+d
+java:S1128"GRemove this unused import 'net.serenitybdd.screenplay.waits.WaitUntil'.(˜• Ü8©Ï¯¥’2
 ª
 java:S1128
-"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isEnabled'.(¬ƒºáûÿÿÿÿ8í½¨×‘2J$cab06b0b-eb06-4be5-8c3b-930a292fbee7
+"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isEnabled'.(¬ƒºáûÿÿÿÿ8í½¨×‘2J$197f1632-20a3-4cb4-985e-8e8b2a3b3a49
+
+java:S1128"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible'.(‡ª8«Ï¯¥’2
 —
-java:S1128"ORemove this unused import 'userinterfaces.BancolombiaHomePage.GESTIONAR_TASAS'.(Şªåğûÿÿÿÿ8ÉŒ×‘2J$739b7285-de50-4d27-aa56-3671fdf56e4c
+java:S1128"ORemove this unused import 'userinterfaces.BancolombiaHomePage.GESTIONAR_TASAS'.(Şªåğûÿÿÿÿ8ÉŒ×‘2J$e24d3ec1-0450-4292-a43b-0161e6bce9b3
+d
+java:S1128"GRemove this unused import 'userinterfaces.BancolombiaHomePage.INTERES'.( ‘«Ã8®Ï¯¥’2
